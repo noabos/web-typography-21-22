@@ -73,3 +73,6 @@ https://www.magicpattern.design/tools/css-backgrounds
 https://html-css-js.com/css/generator/text-shadow/
 https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip
 https://cssgradient.io 
+
+
+
